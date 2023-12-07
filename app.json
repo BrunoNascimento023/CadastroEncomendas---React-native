@@ -1,15 +1,14 @@
 {
   "expo": {
-    "name": "projetoNovo",
-    "slug": "projetoNovo",
+    "name": "AplicativoTeste",
+    "slug": "AplicativoTeste",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/img/icon.png", 
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/img/newSplash.png",  
+      "resizeMode": "contain"
     },
     "assetBundlePatterns": [
       "**/*"
